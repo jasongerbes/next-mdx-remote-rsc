@@ -6,7 +6,6 @@ export default async function Home() {
       ---
       title: RSC Frontmatter Example
       ---
-      # Hello World
       This is from Server Components!
     `,
     options: { parseFrontmatter: true },
